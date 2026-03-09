@@ -10,3 +10,4 @@ Plugins included in the ecosystem:
 - NovaWild
 - NovaClimate
 - NovaJob
+- NovaGui
