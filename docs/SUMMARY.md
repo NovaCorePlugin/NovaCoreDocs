@@ -48,6 +48,5 @@
   * [Config options](novaquest_configoptions.md)
  
 ## Useful Links
-* [Instagram](instagram.com)
-* [Discord](https://discord.gg/T92bG8hW3z)
+[Community](community.md)
 
