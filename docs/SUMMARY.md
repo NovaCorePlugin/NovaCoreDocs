@@ -2,51 +2,40 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* [FAQ](FAQ.md)
+* [FAQ](faq.md)
 
 ## Plugins
 
 * [NovaQuest](novaquest.md)
-  * [Installation](novaquest_installation.md)
-  * [Commands & Permission](novaquest_commands.md)
-  * [Config options](novaquest_configoptions.md)
-    
-
-* [NovaInfluence](novainfluence.md)
-  * [Installation](novainfluence_installation.md)
-  * [Commands & Permission](novainfluence_commands.md)
-  * [Config options](novainfluence_configoptions.md)
- 
-    
+  * [Installation](plugins/novaquest/installation.md)
+  * [Commands & Permission](plugins/novaquest/commands-and-permission.md)
+  * [Config options](plugins/novaquest/config-options.md)
+* [NovaInfluence](plugins/novainfluence/README.md)
+  * [Installation](plugins/novainfluence/installation.md)
+  * [Commands & Permission](plugins/novainfluence/commands-and-permission.md)
+  * [Config options](plugins/novainfluence/config-options.md)
 * [NovaProfession](plugins/novaprofession.md)
-  * [Installation](novaprofession_installation.md)
-  * [Commands & Permission](novaprofession_commands.md)
-  * [Config options](novaprofession_configoptions.md)
-
-    
+  * [Installation](plugins/novaprofession/installation.md)
+  * [Commands & Permission](plugins/novaprofession/commands-and-permission.md)
+  * [Config options](plugins/novaprofession/config-options.md)
 * [NovaWild](plugins/novawild.md)
-  * [Installation](novawild_installation.md)
-  * [Commands & Permission](novawild_commands.md)
-  * [Config options](novawild_configoptions.md)
-
-    
+  * [Installation](plugins/novawild/installation.md)
+  * [Commands & Permission](plugins/novawild/commands-and-permission.md)
+  * [Config options](plugins/novawild/config-options.md)
 * [NovaJob](plugins/novajob.md)
-  * [Installation](novajob_installation.md)
-  * [Commands & Permission](novajob_commands.md)
-  * [Config options](novajob_configoptions.md)
- 
-    
+  * [Installation](plugins/novajob/installation.md)
+  * [Commands & Permission](plugins/novajob/commands-and-permission.md)
+  * [Config options](plugins/novajob/config-options.md)
 * [NovaClimate](plugins/novaclimate.md)
-  * [Installation](novaclimate_installation.md)
-  * [Commands & Permission](novaclimate_commands.md)
-  * [Config options](novaclimate_configoptions.md)
- 
-    
+  * [Installation](plugins/novaclimate/installation.md)
+  * [Commands & Permission](plugins/novaclimate/commands-and-permission.md)
+  * [Config options](plugins/novaclimate/config-options.md)
 * [NovaGui](plugins/novagui.md)
-  * [Installation](novagui_installation.md)
-  * [Commands & Permission](novagui_commands.md)
-  * [Config options](novagui_configoptions.md)
- 
-## Useful Links
-[Community](community.md)
+  * [Installation](plugins/novagui/installation.md)
+  * [Commands & Permission](plugins/novagui/commands-and-permission.md)
+  * [Config options](plugins/novagui/config-options.md)
 
+## Useful Links
+
+* [Instagram](https://www.instagram.com/novacoreplugin/)
+* [Discord](https://discord.gg/T92bG8hW3z)
