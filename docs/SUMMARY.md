@@ -43,9 +43,9 @@
  
     
 * [NovaGui](plugins/novagui.md)
-  * [Installation](novaquest_installation.md)
-  * [Commands & Permission](novaquest_commands.md)
-  * [Config options](novaquest_configoptions.md)
+  * [Installation](novagui_installation.md)
+  * [Commands & Permission](novagui_commands.md)
+  * [Config options](novagui_configoptions.md)
  
 ## Useful Links
 [Community](community.md)
