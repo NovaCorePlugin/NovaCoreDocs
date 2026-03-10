@@ -47,7 +47,7 @@
   * [Commands & Permission](novaquest_commands.md)
   * [Config options](novaquest_configoptions.md)
  
-##Useful Links
+## Useful Links
 [Instagram](instagram.com)
 [Discord](https://discord.gg/T92bG8hW3z)
 
