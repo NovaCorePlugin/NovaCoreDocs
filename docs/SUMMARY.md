@@ -6,11 +6,13 @@
 
 ## Plugins
 
-## Plugins
-
-* [NovaWild](novawild.md)
+* [NovaWild](plugins/novawild/README.md)
+  * [Installation](plugins/novawild/installation.md)
+  * [Commands & Permissions](plugins/novawild/commands-and-permissions.md)
+  * [Config options](plugins/novawild/config-options.md)
 
 ## Future modules
+
 * [NovaCore Ecosystem](novacore.md)
 
 ## Useful Links
