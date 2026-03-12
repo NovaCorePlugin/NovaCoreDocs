@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](welcome.md)
 * [FAQ](faq.md)
 
 ## Plugins
